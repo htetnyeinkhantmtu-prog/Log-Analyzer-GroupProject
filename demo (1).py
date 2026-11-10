@@ -65,6 +65,7 @@ def main():
     print("Hash accepted:", verify_log_integrity(ATTACK_LOG, "0" * 64))
 
     print("\n=== Error handling (missing file) ===")
+    print("Loading a file that does not exist on purpose...")
     print("Result:", load_firewall_log("sample_logs/does_not_exist.log"))
 
     print("\n=== IP reputation (needs ABUSEIPDB_API_KEY) ===")
