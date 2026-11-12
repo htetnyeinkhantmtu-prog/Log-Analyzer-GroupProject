@@ -1,0 +1,83 @@
+Oct  6 01:52:07 web01 sshd[3105]: Accepted publickey for priya from 198.51.100.20 port 55234 ssh2: ED25519 SHA256:k3YxpriyaLab
+Oct  6 02:10:00 web01 sshd[3113]: Failed password for invalid user admin from 203.0.113.77 port 48824 ssh2
+Oct  6 02:10:03 web01 sshd[3119]: Failed password for invalid user ubuntu from 203.0.113.77 port 30752 ssh2
+Oct  6 02:10:09 web01 sshd[3121]: Failed password for invalid user postgres from 203.0.113.77 port 50593 ssh2
+Oct  6 02:10:13 web01 sshd[3129]: Failed password for invalid user ubuntu from 203.0.113.77 port 46483 ssh2
+Oct  6 02:10:18 web01 sshd[3137]: Failed password for invalid user oracle from 203.0.113.77 port 54664 ssh2
+Oct  6 02:10:25 web01 sshd[3140]: Failed password for invalid user postgres from 203.0.113.77 port 35001 ssh2
+Oct  6 02:10:30 web01 sshd[3143]: Failed password for invalid user admin from 203.0.113.77 port 49144 ssh2
+Oct  6 02:10:35 web01 sshd[3152]: Failed password for invalid user ubuntu from 203.0.113.77 port 39233 ssh2
+Oct  6 02:10:42 web01 sshd[3156]: Failed password for invalid user oracle from 203.0.113.77 port 31621 ssh2
+Oct  6 02:10:47 web01 sshd[3163]: Failed password for invalid user oracle from 203.0.113.77 port 60216 ssh2
+Oct  6 02:10:53 web01 sshd[3169]: Failed password for invalid user admin from 203.0.113.77 port 56134 ssh2
+Oct  6 02:11:00 web01 sshd[3177]: Failed password for invalid user user from 203.0.113.77 port 62666 ssh2
+Oct  6 02:11:03 web01 sshd[3181]: Failed password for invalid user ubuntu from 203.0.113.77 port 63184 ssh2
+Oct  6 02:11:10 web01 sshd[3183]: Failed password for invalid user ubuntu from 203.0.113.77 port 56093 ssh2
+Oct  6 02:11:17 web01 sshd[3192]: Failed password for invalid user oracle from 203.0.113.77 port 57522 ssh2
+Oct  6 02:11:24 web01 sshd[3199]: Failed password for invalid user ubuntu from 203.0.113.77 port 63616 ssh2
+Oct  6 02:11:31 web01 sshd[3200]: Failed password for invalid user git from 203.0.113.77 port 31663 ssh2
+Oct  6 02:11:38 web01 sshd[3204]: Failed password for invalid user test from 203.0.113.77 port 38454 ssh2
+Oct  6 02:11:41 web01 sshd[3207]: Failed password for invalid user postgres from 203.0.113.77 port 64289 ssh2
+Oct  6 02:11:44 web01 sshd[3208]: Failed password for invalid user postgres from 203.0.113.77 port 58141 ssh2
+Oct  6 02:11:50 web01 sshd[3217]: Failed password for invalid user test from 203.0.113.77 port 61595 ssh2
+Oct  6 02:11:54 web01 sshd[3218]: Failed password for invalid user git from 203.0.113.77 port 37996 ssh2
+Oct  6 02:12:00 web01 sshd[3226]: Failed password for invalid user postgres from 203.0.113.77 port 60762 ssh2
+Oct  6 02:12:07 web01 sshd[3230]: Failed password for invalid user oracle from 203.0.113.77 port 56350 ssh2
+Oct  6 02:12:12 web01 sshd[3238]: Failed password for invalid user user from 203.0.113.77 port 62892 ssh2
+Oct  6 02:12:18 web01 sshd[3239]: Failed password for invalid user git from 203.0.113.77 port 56342 ssh2
+Oct  6 02:12:24 web01 sshd[3242]: Failed password for invalid user test from 203.0.113.77 port 49292 ssh2
+Oct  6 02:12:29 web01 sshd[3251]: Failed password for invalid user admin from 203.0.113.77 port 32169 ssh2
+Oct  6 02:12:33 web01 sshd[3255]: Failed password for invalid user postgres from 203.0.113.77 port 60030 ssh2
+Oct  6 02:12:40 web01 sshd[3264]: Failed password for invalid user ubuntu from 203.0.113.77 port 53588 ssh2
+Oct  6 02:12:44 web01 sshd[3267]: Failed password for invalid user oracle from 203.0.113.77 port 61822 ssh2
+Oct  6 02:12:50 web01 sshd[3270]: Failed password for invalid user user from 203.0.113.77 port 62581 ssh2
+Oct  6 02:12:56 web01 sshd[3273]: Failed password for invalid user user from 203.0.113.77 port 32203 ssh2
+Oct  6 02:13:01 web01 sshd[3280]: Failed password for invalid user oracle from 203.0.113.77 port 59992 ssh2
+Oct  6 02:13:04 web01 sshd[3285]: Failed password for invalid user ubuntu from 203.0.113.77 port 63762 ssh2
+Oct  6 02:13:09 web01 sshd[3292]: Failed password for invalid user ubuntu from 203.0.113.77 port 41996 ssh2
+Oct  6 02:13:15 web01 sshd[3301]: Failed password for invalid user git from 203.0.113.77 port 61401 ssh2
+Oct  6 02:13:18 web01 sshd[3308]: Failed password for invalid user postgres from 203.0.113.77 port 47463 ssh2
+Oct  6 02:13:24 web01 sshd[3310]: Failed password for invalid user oracle from 203.0.113.77 port 36334 ssh2
+Oct  6 02:13:28 web01 sshd[3317]: Failed password for invalid user postgres from 203.0.113.77 port 56955 ssh2
+Oct  6 02:13:32 web01 sshd[3322]: Failed password for invalid user ubuntu from 203.0.113.77 port 30919 ssh2
+Oct  6 02:13:35 web01 sshd[3325]: Failed password for invalid user admin from 203.0.113.77 port 59571 ssh2
+Oct  6 02:13:42 web01 sshd[3331]: Failed password for invalid user user from 203.0.113.77 port 35443 ssh2
+Oct  6 02:13:49 web01 sshd[3334]: Failed password for invalid user git from 203.0.113.77 port 43028 ssh2
+Oct  6 02:13:53 web01 sshd[3339]: Failed password for invalid user admin from 203.0.113.77 port 32926 ssh2
+Oct  6 02:14:00 web01 sshd[3347]: Failed password for invalid user oracle from 203.0.113.77 port 53412 ssh2
+Oct  6 02:14:04 web01 sshd[3355]: Failed password for invalid user admin from 203.0.113.77 port 50541 ssh2
+Oct  6 02:14:11 web01 sshd[3362]: Failed password for invalid user user from 203.0.113.77 port 62242 ssh2
+Oct  6 02:14:15 web01 sshd[3367]: Failed password for invalid user user from 203.0.113.77 port 44609 ssh2
+Oct  6 02:14:21 web01 sshd[3375]: Failed password for invalid user user from 203.0.113.77 port 38599 ssh2
+Oct  6 02:14:28 web01 sshd[3378]: Failed password for invalid user postgres from 203.0.113.77 port 63077 ssh2
+Oct  6 02:14:33 web01 sshd[3384]: Failed password for invalid user admin from 203.0.113.77 port 57379 ssh2
+Oct  6 02:14:37 web01 sshd[3393]: Failed password for invalid user test from 203.0.113.77 port 50054 ssh2
+Oct  6 02:14:44 web01 sshd[3401]: Failed password for deploy from 203.0.113.77 port 57003 ssh2
+Oct  6 02:14:48 web01 sshd[3409]: Failed password for deploy from 203.0.113.77 port 55585 ssh2
+Oct  6 02:14:52 web01 sshd[3411]: Failed password for deploy from 203.0.113.77 port 39734 ssh2
+Oct  6 02:14:56 web01 sshd[3420]: Failed password for deploy from 203.0.113.77 port 64080 ssh2
+Oct  6 02:15:00 web01 sshd[3429]: Failed password for deploy from 203.0.113.77 port 42890 ssh2
+Oct  6 02:15:04 web01 sshd[3434]: Failed password for deploy from 203.0.113.77 port 54641 ssh2
+Oct  6 02:15:13 web01 sshd[3436]: Accepted password for deploy from 203.0.113.77 port 51544 ssh2
+Oct  6 02:18:13 web01 useradd[4120]: new user: name=support2, UID=1005, GID=1005, home=/home/support2, shell=/bin/bash, from=/dev/pts/1
+Oct  6 02:18:33 web01 usermod[4127]: add 'support2' to group 'sudo'
+Oct  6 02:24:13 web01 sshd[3440]: Disconnected from user deploy 203.0.113.77 port 51544
+Oct  6 02:34:07 web01 sshd[3444]: Disconnected from user priya 198.51.100.20 port 58385
+Oct  6 03:30:00 web01 sshd[3445]: Failed password for priya from 192.0.2.15 port 30926 ssh2
+Oct  6 03:32:30 web01 sshd[3447]: Failed password for ravi from 192.0.2.15 port 36955 ssh2
+Oct  6 03:34:42 web01 sshd[3455]: Failed password for deploy from 192.0.2.15 port 34812 ssh2
+Oct  6 03:36:43 web01 sshd[3461]: Failed password for invalid user backup from 192.0.2.15 port 52742 ssh2
+Oct  6 03:39:03 web01 sshd[3468]: Failed password for www-data from 192.0.2.15 port 53160 ssh2
+Oct  6 03:41:32 web01 sshd[3477]: Failed password for mysql from 192.0.2.15 port 31690 ssh2
+Oct  6 03:43:32 web01 sshd[3480]: Failed password for invalid user jenkins from 192.0.2.15 port 63448 ssh2
+Oct  6 03:45:47 web01 sshd[3481]: Failed password for invalid user support from 192.0.2.15 port 51480 ssh2
+Oct  6 09:05:41 web01 sshd[3487]: Accepted publickey for ravi from 198.51.100.20 port 51681 ssh2: ED25519 SHA256:k3YxraviLab
+Oct  6 09:29:41 web01 sshd[3490]: Disconnected from user ravi 198.51.100.20 port 59847
+Oct  6 09:41:39 web01 sshd[3496]: Accepted publickey for priya from 198.51.100.20 port 59118 ssh2: ED25519 SHA256:k3YxpriyaLab
+Oct  6 10:17:39 web01 sshd[3505]: Disconnected from user priya 198.51.100.20 port 59380
+Oct  6 11:03:35 web01 sshd[3514]: Accepted publickey for ravi from 198.51.100.20 port 58042 ssh2: ED25519 SHA256:k3YxraviLab
+Oct  6 11:50:35 web01 sshd[3518]: Disconnected from user ravi 198.51.100.20 port 57226
+Oct  6 14:20:15 web01 sshd[3520]: Accepted publickey for priya from 198.51.100.20 port 50041 ssh2: ED25519 SHA256:k3YxpriyaLab
+Oct  6 15:09:15 web01 sshd[3525]: Disconnected from user priya 198.51.100.20 port 51322
+Oct  6 16:02:11 web01 sshd[3534]: Failed password for ravi from 198.51.100.20 port 53312 ssh2
+Oct  6 16:02:20 web01 sshd[3538]: Accepted password for ravi from 198.51.100.20 port 53312 ssh2
